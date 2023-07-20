@@ -1,0 +1,539 @@
+@media screen and (max-width:576px) {
+    nav{
+        flex-direction: column;
+        gap: 30px;
+    }
+    .nav-part-1{
+       
+        gap: 20px;
+    }
+    .gamer-title-span{
+        text-align: center;
+    font-family: Work Sans;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background: var(--linear, linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    }
+    .gamer-title{
+        color: #0B0223;
+        font-family: Work Sans;
+        font-size: 10px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    
+    }
+    .youtube-t{
+
+      flex-direction: column;
+      gap: 2px;
+    
+    font-size: 10px;
+    
+      
+    }
+    .font{
+        color: #3C354F;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    }
+    .nav-part-2{
+        flex-direction: column;
+        display: inline-flex;
+        gap: 20px;
+        align-items: center;
+        
+    }
+    /* 2nd-part */
+    .play-like-it{
+      flex-direction: column;
+      flex-direction: column-reverse;
+    }
+    .play-like-it-theory{
+        background-image: url(images/Group\ 14.png);
+        width: 50%;
+        align-items: center;
+        
+      }
+      .play-like-it-img{
+        width: 50%;
+      }
+      .like-my-pic{
+         width: 100%;
+         
+      }
+      .img-it{
+        width: 100%;
+      }
+    
+      .mager{
+        margin-right: 115px;
+        align-items: center;
+        width: 100%;
+        padding: 20%;
+        margin-top: 20%;
+    
+        
+      }
+      .like-it{
+    margin-right:115px;
+    color: #0B0223;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+      }
+    
+    
+    .goat{
+        margin-right:115px;
+        font-family: Work Sans;
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        text-transform: uppercase;
+        background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    
+    
+    
+    .img-fixing-1{
+         display: inline-flex;
+         color: #534C64;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 8px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: lowercase;
+    }
+    .img-fixing-2{
+        display: inline-flex;
+        color: #534C64;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 8px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: lowercase;
+    }
+    .img-fixing-3{
+        display: inline-flex;
+        color: #534C64;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 8px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: lowercase;
+    
+    }
+    .pink-btn{
+        color: #FFF;
+        font-family: Work Sans;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        text-transform: uppercase;
+        border-radius: 48px;
+    background: var(--linear, linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%));
+    padding: 2%;
+    border: none;
+    margin-right:
+    }
+    .blue-btn{
+        color: #FFF;
+        font-family: Work Sans;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        text-transform: uppercase;
+        border-radius: 48px;
+    background: #4EC5F7;
+    padding: 2%;
+    border: none;
+    
+    }
+    /* 3rd part */
+    .we-are-gamer{
+       
+       flex-direction: column;
+    }
+    .gamer-info{
+        align-items: center;
+        width: 60%;
+        
+        margin-top: 7%;
+      }
+      .size-me{
+        width: 100%;
+    }
+    .gamer-title{
+    text-align: center;
+    align-items: center;
+    font-family: Work Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    }
+    .gamer-discription{
+        color: #534C64;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+    }
+    .pink-btn-2{
+        margin-left: 34%;
+        color: #FFF;
+        font-family: Work Sans;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        text-transform: uppercase;
+        border-radius: 48px;
+        background: var(--linear, linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%));
+        padding: 2%;
+        border: none;
+       margin-right: 2%;
+    }
+    .purpose-of-it{
+        color: #534C64;
+        text-align: center;
+    font-family: Work Sans;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 45px;
+    }
+    .make-it-span{
+     color: #534C64;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 6px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 45px; /* 187.5% */
+    }
+
+  .disi{
+    font-size: 18px;
+    
+}
+.again{
+
+font-size: 18px;
+}
+.disi-na{
+    font-size: 8px;
+    
+}
+/* CARD-SEACTION */
+.card-it-out{
+   flex-direction: column;
+   gap: 3%;
+   
+}
+.twenty-five{
+    width: 50%;
+    gap: 25px;
+}
+
+.buttonwa{
+width: 15%;
+position: relative;
+bottom: 200px;
+left: 80px;
+
+
+} 
+.watchwa{
+
+position: relative;
+bottom: 200px;
+
+} 
+/* relative-1 */
+.position-relative-1{
+    flex-direction: column;
+}
+.position-relative-1{
+    margin-top: 170%;
+   
+}
+.info{
+    width: 70%;
+    text-align: center;
+    align-items: center;
+    margin-top:18%;
+  
+  }
+  .pics{
+    margin-top: 25%;
+    width: 80%;
+   
+   }
+   .empty-space{
+   width: 10%;
+   
+   }
+   .first{
+       width: 75%;
+       margin-left: 25%;
+   }
+   .last{
+       width: 43%;
+       position: relative;
+       bottom: 130px;
+       left: 34px;
+   }
+   /* relative-2 */
+   .relative-img-2{
+    flex-direction: column;
+    margin-top: 40%;
+}
+
+.infoo{
+    width: 60%;
+    text-align: center;
+    align-items: center;
+  
+  }
+  .picss{
+    margin-top: 25%;
+    width: 80%;
+   
+   }
+
+   .firstt{
+       width: 75%;
+       margin-right: 25%;
+   }
+   .lastt{
+       width: 43%;
+       position: relative;
+       bottom: 130px;
+       left:130px;
+   }
+   .pink-back{
+    margin-top: 70%;
+    flex-direction: column;
+}
+/* barrrr */
+.pink-back{
+    margin-top: 100%;
+    width: 100%;
+    display: flex;
+    background-color: #FF42A5;
+   
+}
+.pink{
+    margin-top: 10%;
+    width: 50%;
+}
+.again-pink{
+    width: 50%;
+    align-items: center;
+
+}
+.image{
+    width: 100%;
+}
+.pinks{
+    margin-top: 2%;
+    display: flex;
+    margin-right: 20%;
+    gap: 50%;
+}
+.career{
+    margin-bottom: 2%;
+    color: #FFF;
+font-family: Work Sans;
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+
+}
+.ca-para{
+
+color: #FFF;
+font-family: Work Sans;
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+}
+.s{
+color: #FFF;
+font-family: Work Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+
+}
+/* hoover */
+.hoover-my-boy{
+    
+    width: 78%;
+}
+.addiction{
+   gap: 10%;
+  
+}
+.oops{
+    gap: 10%;
+   
+    
+}
+.fifth{
+    display: inline-flex;
+    align-items: center;
+}
+.r{
+    width: 45%;
+}
+.fifthh{
+    display: inline-flex;
+    align-items: center;
+}
+.fifth:hover,.fifthh:hover{
+    color:#F948B2;
+    border: 1px solid #F948B2;
+     border-radius: 50px;
+ }
+ .t{
+    color: #0B0223;
+font-family: Work Sans;
+font-size: 10px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+ }
+ /* footer */
+ footer{
+    background: #0B0223;
+    color: white;
+}
+.footer-red,.footer-Red{
+color: rgba(255, 255, 255, 0.60);
+text-align: center;
+font-family: Work Sans;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.footer-1st{
+    padding-top:5% ;
+    margin-left: 40%;
+    margin-right: 40%;
+    display: flex;
+    justify-content: center;
+    vertical-align: middle;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 5%;
+    font-size: 70%;
+}
+.footer-2nd{
+    margin-left: 25%;
+    margin-right: 25%;
+    display: flex;
+    padding-bottom: 5%;
+}
+.footer-3rd{
+    margin-left: 35%;
+    margin-right: 50%;
+    align-items: right;
+    width: 30%;
+    height: 30%;
+    display: flex;
+    padding-bottom: 5%;
+
+}
+.footer-red{
+    margin-left: 30%;
+    margin-right: 30%;
+    display: flex;
+    padding-bottom: 5%;
+}
+.footer-Red{
+    margin-left: 38%;
+    margin-right: 38%;
+}
+.kiki{
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background: linear-gradient(90deg, #FFF 0%, #FFF 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.pipi{
+    background: linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-family: Work Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+.kikki{
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background: linear-gradient(90deg,#0B0223 0%,#0B0223 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+
+}
+.footer-Red{
+     font-size: 7px;
+   
+}
+ 
+}
+
+
+
